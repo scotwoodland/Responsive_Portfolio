@@ -1,0 +1,51 @@
+/* Do your best NOT to use this until you have proven that you can sufficiently use Bootstrap */
+/* We are yet again just trying to get this thing to push. */
+
+h1 {
+    font-family: 'Bad Script', cursive;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2em;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+/* 
+img {
+    max-width:25%;
+    height:25%;
+    text-align: center;
+ } */
+
+ p {
+     color: black;
+     text-align: center;
+     font-size: 2em;
+     font-weight: 900;
+ }
+
+ h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-weight: 900;
+    font-size: 2em;
+ }
+
+ h5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-weight: 900;
+    font-size: 2em;
+ }
+
+ 
+ .box1 {
+     background-color:lightblue;
+     border: 20px;
+     padding: 20px;
+     margin: 20px;
+ }
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Bad Script', cursive;
+font-family: 'Homemade Apple', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Pinyon Script', cursive; */
