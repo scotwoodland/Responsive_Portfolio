@@ -5,7 +5,7 @@
 While heavily relying on Bootstrap I created three pages with corresponding links that give a brief portfolio, (as I understand a portfolio), highlighting some of the positions I've held and places I've lived during my career. I attempted to use the grid sysmem as much as possible in the formatting of the pages and was able to find most of what I needed from Bootstrap. Some trainings on Youtube also assisted in some coding suggestions specifically in the "contact.html" page. I only have one social media site and found that I may need to begin opening additional accounts. Additionally, I learned a lot of things that you SHOULDN'T do as I went through .html validation through validator.w3.org. 
 
 ### Screenshot
-![Screenshot of Responsive Portfolio home page](Responsive_Portfolio/assets/images/Screenshot.jpg)
+![Screenshot of Responsive Portfolio home page](Assets/Images/Screenshot.JPG)
 
 #### Link to Deployed Application
 [Responsive Portfolio "Main Page" Link](https://scotwoodland.github.io/Responsive_Portfolio/) is hosted on Github pages.
